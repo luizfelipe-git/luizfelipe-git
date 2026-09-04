@@ -1,8 +1,8 @@
 ## :mag: Sobre mim 
 
 Olá! Me chamo Luiz Felipe, e adoro programar e pensar em novos códigos!
-- 🎓 Estudando Desenvolvimento de Software Multiplataforma na FATEC de Cotia
-- 💼 Buscando ingressar na área
+
+Atualmente, estou buscando por uma oportunidade de entrar na área, ao mesmo tempo em que continuo os meus estudos.
   
 --- 
 
@@ -14,37 +14,54 @@ Olá! Me chamo Luiz Felipe, e adoro programar e pensar em novos códigos!
 --- 
 
 ## :rocket: Skills
-<img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/TypeScript?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/MySQL?viewbox=auto&size=35" /> 
-<img src="https://cdn.simpleicons.org/Python?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/Node.js?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/git?viewbox=auto&size=35" />
-<img src="https://cdn.simpleicons.org/React?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/Bootstrap?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/CSS?viewbox=auto&size=35" /> 
-<img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/mongodb?viewbox=auto&size=35" /> 
 
+### :globe_with_meridians: Linguagens
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,html,css"/>
+</a>
 
---- 
+### :art: Frameworks Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,mui,bootstrap"/>
+</a>
 
-## :hammer_and_wrench: Ferramentas
-<img src="https://cdn.simpleicons.org/vscode?viewbox=auto&size=35" />  <img src="https://cdn.simpleicons.org/powerbi?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/insomnia?viewbox=auto&size=35" /> 
-<img src="https://cdn.simpleicons.org/CleverCloud?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/SharpDevelop?viewbox=auto&size=35" /> <img src="https://cdn.simpleicons.org/Gimp?viewbox=auto&size=35" /> 
+### :gear: Frameworks Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</a>
 
+### :hammer_and_wrench: Ferramentas
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
+  </a>
+  
+  <img src="https://api.iconify.design/selfhst/gimp.svg?height=45"/> 
+  <img src="https://api.iconify.design/simple-icons/clevercloud.svg?color=%239B1718&height=45"/> 
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg?height=45" > 
+  <img src="https://api.iconify.design/logos/insomnia.svg?height=45"/> 
+</div>
 
-<p align="left">
-
-</p>
+### :book: Banco de dados
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</a>
 
 
 --- 
 
 
 ## :star: Principais projetos
+<a href="https://github.com/raulcommits/PrototipoDeTCC-VyaSaude">
   <img height="120em" src="https://github-stats-extended.vercel.app/api/pin?username=luizfelipe-git&repo=raulcommits%2FPrototipoDeTCC-VyaSaude&description_lines_count=1&theme=vision-friendly-dark">
-
+</a>
 
 --- 
 
 ## :bar_chart: Status
 <div>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=luizfelipe-git&layout=donut&langs_count=6&theme=vision-friendly-dark">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=luizfelipe-git&custom_title=Status&show_icons=true&theme=vision-friendly-dark">
+  <img width="50%" height="180em" src="https://github-stats-extended.vercel.app/api?username=luizfelipe-git&custom_title=Status&show_icons=true&theme=vision-friendly-dark">
 </div>
 
 
@@ -53,10 +70,14 @@ Olá! Me chamo Luiz Felipe, e adoro programar e pensar em novos códigos!
 
 ## :link: Links
 
-<a href="#" title="LinkedIn">
-  <img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfr89/" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/luizfr89/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-<div align="center">
+<p/>
+  
+<div>
     <img height="20em" src="https://komarev.com/ghpvc/?username=luizfelipe-git&label=Visualizações&color=0e75b6&style=flat" />
 </div>
-  
+
+
