@@ -52,7 +52,7 @@ Atualmente, estou buscando por uma oportunidade de entrar na área, ao mesmo tem
 
 
 ## :star: Principais projetos
-<a href="https://github.com/raulcommits/PrototipoDeTCC-VyaSaude">
+<a href="https://github.com/luizfelipe-git/PrototipoDeTCC-VyaSaude">
   <img height="120em" src="https://github-stats-extended.vercel.app/api/pin?username=luizfelipe-git&repo=raulcommits%2FPrototipoDeTCC-VyaSaude&description_lines_count=1&theme=vision-friendly-dark">
 </a>
 
