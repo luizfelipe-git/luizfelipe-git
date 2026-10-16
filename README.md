@@ -17,7 +17,7 @@ Atualmente, estou buscando por uma oportunidade de entrar na área, ao mesmo tem
 
 ### :globe_with_meridians: Linguagens
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,html,css"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,html,css,sass"/>
 </a>
 
 ### :art: Frameworks Frontend
@@ -30,10 +30,15 @@ Atualmente, estou buscando por uma oportunidade de entrar na área, ao mesmo tem
   <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </a>
 
+### :book: Banco de dados
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</a>
+
 ### :hammer_and_wrench: Ferramentas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
+    <img src="https://skillicons.dev/icons?i=figma,vscode"/>
   </a>
   
   <img src="https://api.iconify.design/selfhst/gimp.svg?height=45"/> 
@@ -42,10 +47,13 @@ Atualmente, estou buscando por uma oportunidade de entrar na área, ao mesmo tem
   <img src="https://api.iconify.design/logos/insomnia.svg?height=45"/> 
 </div>
 
-### :book: Banco de dados
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</a>
+### :hammer_and_wrench: DevOps & Deploy
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel"/>
+  </a>
+</div>
+
 
 
 --- 
@@ -53,15 +61,15 @@ Atualmente, estou buscando por uma oportunidade de entrar na área, ao mesmo tem
 
 ## :star: Principais projetos
 <a href="https://github.com/luizfelipe-git/PrototipoDeTCC-VyaSaude">
-  <img height="120em" src="https://github-stats-extended.vercel.app/api/pin?username=luizfelipe-git&repo=raulcommits%2FPrototipoDeTCC-VyaSaude&description_lines_count=1&theme=vision-friendly-dark">
+  <img height="120em" src="https://github-stats-extended.vercel.app/api/pin?username=luizfelipe-git&repo=luizfelipe-git%2FPrototipoDeTCC-VyaSaude&description_lines_count=2&theme=vision-friendly-dark">
 </a>
 
 --- 
 
-## :bar_chart: Status
+## :bar_chart: GitHub Status
 <div>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=luizfelipe-git&layout=donut&langs_count=6&theme=vision-friendly-dark">
-  <img width="50%" height="180em" src="https://github-stats-extended.vercel.app/api?username=luizfelipe-git&custom_title=Status&show_icons=true&theme=vision-friendly-dark">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=luizfelipe-git&layout=donut&langs_count=8&theme=vision-friendly-dark">
+  <img width="50%" height="180em" src="https://github-stats-extended.vercel.app/api?username=luizfelipe-git&custom_title=Count%20Status&show_icons=true&theme=vision-friendly-dark">
 </div>
 
 
